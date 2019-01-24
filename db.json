@@ -26,6 +26,12 @@
       "description": "Didn't expect that",
       "userId": "102724974487645611276",
       "id": 5
+    },
+    {
+      "title": "Expected Behavior",
+      "description": "This works",
+      "userId": "102724974487645611276",
+      "id": 6
     }
   ]
 }
