@@ -20,6 +20,12 @@
       "description": "My description with Auth",
       "userId": "102724974487645611276",
       "id": 4
+    },
+    {
+      "title": "Unexpected behavior",
+      "description": "Didn't expect that",
+      "userId": "102724974487645611276",
+      "id": 5
     }
   ]
 }
